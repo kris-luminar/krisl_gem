@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "krisl_gem.gemspec",
     "lib/krisl_gem.rb",
     "spec/krisl_gem_spec.rb",
     "spec/spec_helper.rb"
