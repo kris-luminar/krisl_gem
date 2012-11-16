@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "krisl_gem"
   gem.homepage = "http://github.com/kris-luminar/krisl_gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Prints out pirate themed nonsense}
+  gem.description = %Q{By golly, you must be Jolly!}
   gem.email = "kris.luminar@gmail.com"
   gem.authors = ["Kris Luminar"]
   # dependencies defined in Gemfile
